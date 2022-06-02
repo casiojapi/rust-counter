@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.container {
+    margin-top: 35px;
+    text-align: center;
+    color: white;
+}
+
+.container p {
+    font-size: 3em;
+}
+
+.container button {
+    font-size: 5em;
+}
